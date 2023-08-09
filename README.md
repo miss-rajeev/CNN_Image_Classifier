@@ -7,3 +7,7 @@ Project Description: This is a convolutional neural network (CNN) image classifi
 
 
 This project can be a great starting point for anyone interested in learning about CNNs and image classification, and can be easily extended to handle more complex datasets and classification tasks.
+
+**Website built to run model on backend and display results**
+Username: dan
+Password: Optimization1234
